@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Utsavkumar Lal
-- 👀 I’m working as junior software engineer @ Makkajai
-- 🌱 I’m currently expert at Unity 2D game dev and learning Unreal in my free time
-- 💞️ I’m looking to collaborate on Unity, Spine, Unreal, API Dev using ASP.NET or Spring Boot
+- 👋 Hi, I’m Utsav
+- 👀 I’m working as SDE - 1 @ Makkajai
+- 🌱 I’m currently an expert in 2D game development and backend development using Unity and Cocos2dX
+- 💞️ I’m looking to collaborate on Unity, Spine, Unreal, Spring Boot
 - 📫 You can email me at utsavll0@gmail.com
 
 <!---
