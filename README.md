@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Utsav
-- 👀 I’m working as SDE - 1 @ Makkajai
-- 🌱 I’m currently an expert in 2D game development and backend development using Unity and Cocos2dX
-- 💞️ I’m looking to collaborate on Unity, Spine, Unreal, Spring Boot
-- 📫 You can email me at utsavll0@gmail.com
+- 👀 I’m currently an incoming Masters in Computer Science Student at NC State University
+- 🌱 I have around 4 years experience in software engineering, mobile development, web development and cloud technologies
+- 💞️ I’m looking for full time and internship opportunities in the field of software engineering and web development
+- 📫 You can email me at utsavll0@gmail.com or ualal@ncsu.edu
 
 <!---
 utsavll0/utsavll0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
