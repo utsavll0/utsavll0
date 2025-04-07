@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Utsav!
 
-I’m a **Masters in Computer Science** student at **NC State University** with over **4 years of experience** in software engineering. I specialize in **full stack development**, **mobile development**, **web development**, and **cloud technologies**, and I'm always eager to learn and grow in the field.
+I’m a **Masters in Computer Science** student at **NC State University**. I specialize in **full stack development**, **mobile development**, **web development**, and **cloud technologies**, and I'm always eager to learn and grow in the field.
 
 ## 🌱 Current Focus:
 - Building cutting-edge **software systems** and **web applications**.
